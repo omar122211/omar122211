@@ -3,7 +3,7 @@
 **Full-stack & AI engineer** in Istanbul. I build products end to end — the interface, the API, the database, and the AI in the middle.
 Computer Engineering graduate (Karabük University) · freelance web developer since 2022.
 
-🌐 **Portfolio:** [microbe233.github.io/profile](https://microbe233.github.io/profile/) &nbsp;·&nbsp;
+🌐 **Portfolio:** [omar122211.github.io/profile](https://omar122211.github.io/profile/) &nbsp;·&nbsp;
 💼 **LinkedIn:** [omar-mostafa](https://www.linkedin.com/in/omar-mostafa-349239209/) &nbsp;·&nbsp;
 ✉️ **Email:** omar.mostafa082002@gmail.com
 
@@ -18,10 +18,10 @@ Computer Engineering graduate (Karabük University) · freelance web developer s
 
 | Project | What it is |
 |---|---|
-| 🗺️ [Coordinate Transformation Tool](https://github.com/microbe233/GPS) — [**live demo**](https://microbe233.github.io/GPS/) | Click an aerial photo and get real GPS coordinates, with live preview and the full calculation |
-| 💬 [Chat Room in C](https://github.com/microbe233/Chat-Room) | Multi-user TCP chat server: pthreads, private messages, checksum + CRC integrity checks |
-| ✨ [This portfolio](https://github.com/microbe233/profile) — [**live**](https://microbe233.github.io/profile/) | Particle-portrait hero, an in-browser search engine, hand-built and hardened with a strict CSP |
+| 🗺️ [Coordinate Transformation Tool](https://github.com/omar122211/GPS) — [**live demo**](https://omar122211.github.io/GPS/) | Click an aerial photo and get real GPS coordinates, with live preview and the full calculation |
+| 💬 [Chat Room in C](https://github.com/omar122211/Chat-Room) | Multi-user TCP chat server: pthreads, private messages, checksum + CRC integrity checks |
+| ✨ [This portfolio](https://github.com/omar122211/profile) — [**live**](https://omar122211.github.io/profile/) | Particle-portrait hero, an in-browser search engine, hand-built and hardened with a strict CSP |
 | ⚔️ **Forge** *(private)* | Android fitness RPG: AI pose detection counts your reps; skip your quests and Instagram gets locked for 24h |
 | 🏕️ **YelpCamp** *(private)* | Campground platform with 3D maps, Google/Facebook login, a gear rental market and Stripe payments |
 
-More case studies with screenshots are on the [portfolio](https://microbe233.github.io/profile/#work).
+More case studies with screenshots are on the [portfolio](https://omar122211.github.io/profile/#work).
