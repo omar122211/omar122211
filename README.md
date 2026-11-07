@@ -1,6 +1,6 @@
 # Hi, I'm Omar 👋
 
-**Full-stack & AI engineer** in Istanbul. I build products end to end — the interface, the API, the database, and the AI in the middle.
+**AI Engineer · Full-stack** in Istanbul. I build products end to end — the interface, the API, the database, and the AI in the middle.
 Computer Engineering graduate (Karabük University) · freelance web developer since 2022.
 
 🌐 **Portfolio:** [omar122211.github.io/profile](https://omar122211.github.io/profile/) &nbsp;·&nbsp;
