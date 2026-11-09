@@ -9,8 +9,8 @@ Computer Engineering graduate (Karabük University) · freelance web developer s
 
 ## What I work with
 
-**AI:** Python · LLM apps (Gemini API) · RAG & embeddings · LangGraph agents · PyTorch (transfer learning, computer vision, NLP fine-tuning) · Hugging Face Transformers · MediaPipe pose estimation (on-device, WebAssembly) · Chroma · FastAPI · scikit-learn · pandas · ML Kit
-**Web:** JavaScript · TypeScript · React · Next.js · Node.js · Express · PHP · MongoDB · PostgreSQL · MySQL
+**AI:** Python · LLM apps (Gemini API) · RAG & embeddings · LangGraph agents · PyTorch (transfer learning, computer vision, NLP fine-tuning) · Hugging Face Transformers · MediaPipe pose estimation (on-device, WebAssembly) · Chroma · FastAPI · scikit-learn · pandas
+**Web:** JavaScript · TypeScript · React · Next.js · Node.js · Express · PHP · MongoDB · PostgreSQL · MySQL · Supabase
 **Also:** C & networking · Git · GitHub Actions · Linux · Docker
 
 ## Featured
