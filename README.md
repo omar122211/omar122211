@@ -1,6 +1,6 @@
 # Hi, I'm Omar 👋
 
-**AI Engineer · Full-stack** in Istanbul. I build products end to end — the interface, the API, the database, and the AI in the middle.
+**AI Engineer · Full-stack** in Istanbul. I build AI products — RAG assistants, NLP and computer vision — and the web apps around them, end to end.
 Computer Engineering graduate (Karabük University) · freelance web developer since 2022.
 
 🌐 **Portfolio:** [omar122211.github.io/profile](https://omar122211.github.io/profile/) &nbsp;·&nbsp;
@@ -9,9 +9,8 @@ Computer Engineering graduate (Karabük University) · freelance web developer s
 
 ## What I work with
 
-**Web:** JavaScript · TypeScript · React · Next.js · Node.js · Express · PHP · MongoDB · PostgreSQL · MySQL
-**Mobile:** Kotlin · Jetpack Compose · Room · CameraX · Supabase
 **AI:** Python · LLM apps (Gemini API) · RAG & embeddings · LangGraph agents · PyTorch (transfer learning, computer vision, NLP fine-tuning) · Hugging Face Transformers · MediaPipe pose estimation (on-device, WebAssembly) · Chroma · FastAPI · scikit-learn · pandas · ML Kit
+**Web:** JavaScript · TypeScript · React · Next.js · Node.js · Express · PHP · MongoDB · PostgreSQL · MySQL
 **Also:** C & networking · Git · GitHub Actions · Linux · Docker
 
 ## Featured
